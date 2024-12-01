@@ -2,6 +2,9 @@
 
 this is a test project for practice.
 
+## Live Demo
+- [whatch Demo](https://react-basket-chi.vercel.app/)
+
 ## TechnologieS
 
 - React
